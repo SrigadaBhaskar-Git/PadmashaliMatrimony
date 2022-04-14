@@ -1,0 +1,10 @@
+.rgstr{
+    border-top-left-radius:40% ;
+    border-bottom-right-radius:40% ;
+}
+.dropdown-item:hover{
+    color: crimson;
+}
+.dropdown-item:active{
+    color:lime;
+}
